@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyFlashlight</string>
+    <string name="button_white">W</string>
+    <string name="button_yellow">Y</string>
+    <string name="button_blue">B</string>
+    <string name="button_red">R</string>
+    <string name="button_green">G</string>
+    <string name="button_SosSignal">SOS</string>
+
+
+    <string name="startupRadioButton_white">White</string>
+    <string name="startupRadioButton_blue">Blue</string>
+    <string name="startupRadioButton_red">Red</string>
+    <string name="startupRadioButton_yellow">Yellow</string>
+    <string name="startupRadioButton_green">Green</string>
+
+    <string name="button_setStartupColor">Set Startup Color</string>
+    <string name="button_cancel">Cancel</string>
+
+    <string name="StartupDescription">Choose Startup Color:</string>
+    <string name="UserDescription_MainLayer">Touch the screen to hide/unhide the buttons!</string>
+    <string name="NextStart_withButtons">Next start with buttons</string>
+    <string name="NextStart_WithoutButtons">Next start without buttons</string>
+</resources>

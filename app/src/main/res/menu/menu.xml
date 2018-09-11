@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/MenuButtonNextStartNoFullscreen"
+        android:checkable="false"
+        android:enabled="true"
+        android:title="@string/NextStart_withButtons"
+        android:visible="true" />
+    <item
+        android:id="@+id/MenuButtonNextStartFullscreen"
+        android:checkable="false"
+        android:enabled="true"
+        android:title="@string/NextStart_WithoutButtons"
+        android:visible="true" />
+
+</menu>
